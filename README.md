@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Pre-final+Year+CSE+Student+%40+BIT+Mesra;600%2B+DSA+Problems+Solved;Microservices+%7C+REST+APIs+%7C+WebSockets+%7C+gRPC;RAG+Pipelines+%7C+Vector+Databases+%7C+Grounded+LLM+Apps;Building+placement-ready+engineering+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Final+Year+CSE+Student+%40+BIT+Mesra;600%2B+DSA+Problems+Solved;Microservices+%7C+REST+APIs+%7C+WebSockets+%7C+gRPC;RAG+Pipelines+%7C+Vector+Databases+%7C+Grounded+LLM+Apps;Building+placement-ready+engineering+projects" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ```txt
 name        Kumar Sidharth
-role        Pre-final Year Computer Science Student
+role        Final Year Computer Science Student
 college     Birla Institute of Technology, Mesra
 focus       Backend Engineering, System Design, GenAI/RAG, Full-Stack Products
 language    C++ for DSA | TypeScript/JavaScript for web | Python for AI/RAG
